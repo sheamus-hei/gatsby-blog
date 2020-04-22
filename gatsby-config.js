@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "My personal blog",
-    titleTemplate: "%s · Blog",
+    title: "Erik Heikkila Portfolio",
+    titleTemplate: "%s · Portfolio",
     description: "Nostrud est duis proident ut dolore ipsum tempor Lorem.",
-    author: "danilowoz",
+    author: "Erik Heikkila",
     twitterUsername: "@danilowoz",
   },
   plugins: [
